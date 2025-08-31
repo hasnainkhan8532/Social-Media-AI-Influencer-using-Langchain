@@ -1,0 +1,31 @@
+# AI API integrations
+langchain>=0.1.0
+langchain-google-genai>=1.0.0
+google-generativeai>=0.3.0
+langchain-core>=0.1.0
+openai>=1.0.0
+
+# Environment and utilities
+python-dotenv>=1.0.0
+requests>=2.31.0
+Pillow>=10.0.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Jupyter and development
+jupyter>=1.0.0
+ipykernel>=6.25.0
+ipywidgets>=8.0.0
+
+# Image processing (for potential image handling)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Web scraping (if needed for content research)
+beautifulsoup4>=4.12.0
+
+# Async processing
+aiohttp>=3.8.0
+asyncio>=3.4.3
